@@ -57,6 +57,7 @@ a{
 }
 
 .head{text-align: center;}
+.foot{text-align: center;}
 .menu{
     min-height: 50px;
     background: #000;
